@@ -1,0 +1,39 @@
+
+.set-blue-color{
+  background-color: blue;
+ 
+ }
+ .available-seat-color{
+  background-color: lightblue;
+  height: 30px;
+  width: 30px;
+ }
+ .set-light-blue-color{
+  background-color: lightblue;
+ }
+ .booked-seat-color{
+  background-color: blue;
+  height: 30px;
+  width: 30px;
+ }
+ .select-seat-color{
+  background-color: pink;
+  height: 30px;
+  width: 30px;
+ }
+ .set-pink-color-selected{
+  background-color: pink;
+ }
+
+ .confirm-btn{
+  justify-content: center;
+  text-align: center;
+  margin-left: 200px;
+ background-color:red;
+ }
+ .confirm-text{
+  background-color:red;
+  color: black;
+ }
+
+ 
